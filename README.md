@@ -15,7 +15,7 @@ A simple authentication service built with **Spring Boot**, **PostgreSQL**, and 
 Registers a new user.
 
 ### `POST /auth/login`
-Registers a new user.
+Login a user and return JWT.
 
 **Request Body:**
 ```json
